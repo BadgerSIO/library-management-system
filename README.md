@@ -1,6 +1,7 @@
 # Library Management System
 
 A robust TypeScript-based RESTful API for managing a library's book inventory and borrowing operations. Built with **Express**, **Mongoose**, and **MongoDB**, this application provides a scalable solution for librarians to manage books, track borrowing, and generate summaries, with strong error handling and validation.
+Here goes the live link to the server : https://library-management-system-one-omega.vercel.app/
 
 ## Features
 
